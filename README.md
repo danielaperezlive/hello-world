@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi there,
+
+I like art, design, psychology and coding!
